@@ -75,7 +75,7 @@
       <div class="home-content">
         <div class="text-1" data-aos="fade-up">Hello, my name is</div>
         <div class="text-2">Hemanth Kumar Chilakala</div>
-        <div class="text-3">Frontend developer and enthusiasm in the webdevelopment&design</span></div>
+        <div class="text-3">Frontend developer and enthusiasm in the web-development & design</span></div>
       </div>
     </div>
   </section>
@@ -86,16 +86,16 @@
       <h2 class="title" data-aos="fade-down" >About Me</h2>
       <div class="about-content">
         <div class="column left" data-aos="fade-right" >
-          <img src="images/profile.jpg" alt="" />
+          <img src="https://drive.google.com/drive/folders/1g1RENzoSLEYdR_1ONh4psS85v93b6N_u?usp=sharing" alt="" />
         </div>
         <div class="column right" data-aos="fade-up">
           <div class="text">
-            I am Hemanth Kumar and Fronrend developer | passionate about web development and design</span>
+            I am Hemanth Kumar and Fronrend developer   |   passionate about web development and design</span>
           </div>
           <p class="paragraph">
             Seeking an entry-level position to begin my career in a high-level professional environment.To secure employment with a reputable company, where I can utilize my skills and business studies background to the maximum.Seeking a challenging career with an MNC.A highly organized and hard-working individual looking for a responsible position to gain practical experience.To make use of my interpersonal skills to achieve goals of a company that focuses on customer satisfaction and customer experience.
           </p>
-          <a href="{{GOOGLE DRIVE LINK FOR RESUME}}">Download
+          <a href="https://drive.google.com/file/d/1QwGkeKr-YNy_ET-SynbjpwARhE0SQKhd/view?usp=sharing">Download
             Resume</a>
         </div>
       </div>
@@ -150,19 +150,19 @@
             My creative skills & experiences.
           </div>
           <p class="paragraph-2">
-            The natural progression after learning HTML CSS and JavaScript is to learn a frontend framework. So, what is a framework? A front-end framework is a modern, powerful, and easier way to write complex web applications. Frontend frameworks require a deep knowledge of HTML, CSS, and JavaScript.
+            The natural progression after learning HTML, CSS and JavaScript is to learn a frontend framework. So, what is a framework? A front-end framework is a modern, powerful and easier way to write complex web applications. Frontend frameworks require a deep knowledge of HTML, CSS and JavaScript.
           </p>
           <a href="#about">Read More</a>
         </div>
         <div class="column right skill-box">
           <div class="icons">
-            <img src="images/skill-icons/icons8-css3.svg" alt="css" id="css-icon" data-aos="flip-left">
-            <img src="images\skill-icons\icons8-javascript.svg" alt="js" id="js-icon" data-aos="flip-left">
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficons%2Fset%2Fcss&psig=AOvVaw0xN5Eq4aFMgIxLYgO1PF7y&ust=1690081263689000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjco7upoYADFQAAAAAdAAAAABAE" alt="css" id="css-icon" data-aos="flip-left">
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficons%2Fset%2Fjs&psig=AOvVaw3RWCTlP2CbbaK7oy0C-vfs&ust=1690081379455000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIis1PKpoYADFQAAAAAdAAAAABAJ" alt="JS" id="js-icon" data-aos="flip-left">
           </div>
           <div class="icons">
-            <img src="images\skill-icons\icons8-html-5.svg" alt="html", id="html-icon" data-aos="flip-left">
-            <img src="images\skill-icons\icons8-visual-studio-code-2019.svg" alt="vscode" id="vscode-icon" data-aos="flip-left">
-            <img src="images\skill-icons\icons8-c++.svg" alt="c++" id="cpp-icon" data-aos="flip-left">
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML5&psig=AOvVaw3MrDfoTa8oTUKj0yQCymLf&ust=1690081485417000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiPmKWqoYADFQAAAAAdAAAAABAE" alt="HTML", id="html-icon" data-aos="flip-left">
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fvisual-studio-code-icon%2F&psig=AOvVaw2mwvzgCKRZSXcsPsV_99Vj&ust=1690081591907000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDSydeqoYADFQAAAAAdAAAAABAO" alt="VScode" id="vscode-icon" data-aos="flip-left">
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fc_6132222&psig=AOvVaw0lk9N-t00XmeETqg92IkeB&ust=1690081681801000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCjxYKroYADFQAAAAAdAAAAABAE" alt="C++" id="cpp-icon" data-aos="flip-left">
       </div>
   </section>
 
@@ -173,7 +173,7 @@
       <div class="contact-content">
         <div class="column left" data-aos="flip-left">
           <div class="text">Let's Get in Touch</div>
-          <p class="paragraph-3">Hello friends I am Hemanth Kumar Chilakala  If you want to stay in touch and you're ready to make that effort. Better yet, let them know when your schedule is open and you can touch with mail.          </p>
+          <p class="paragraph-3">Hello friends I am Hemanth Kumar Chilakala. If you want to stay in touch and you're ready to make that effort. Better yet, let them know when your schedule is open and you can touch with mail.          </p>
           <div class="icons">
             <div class="row">
               <i class="fas fa-user"></i>
@@ -218,7 +218,7 @@
               <textarea cols="30" rows="10" id="message" placeholder="Message" required autocomplete="off"></textarea>
             </div>
             <div class="button">
-              <button onclick='sendMail()' type="submit">Send Message</button>
+              <button onclick='sendMail()' type="submit">Send</button>
             </div>
           </form>
         </div>
@@ -231,8 +231,8 @@
       <span>
         Created By <a href="#">Hemanth Kumar Chilakala </a> | <span class="far fa-copyright"> </span> <script>document.write(new Date().getFullYear())</script> All rights reserved.
         <div>
-          <a href=><i class="fab fa-linkedin"></i></a>
-          <a href="{{YOUR GITHUB}}"><i class="fab fa-github"></i></a>
+          <a href="https://www.linkedin.com/in/hemanth-kumar-chilakala-231634250/"><i class="fab fa-linkedin"></i></a>
+          <a href="https://github.com/hemanth0975"><i class="fab fa-github"></i></a>
           <a href="{{YOUR YOUTUBE}}"><i class="fab fa-youtube"></i></a>
         </div>
       </span>
