@@ -6,15 +6,15 @@ function sendMail(params){
         message_sender: document.getElementById("message").value,
     };
     emailjs.send('{{SERVICE ID}}','{{TEMPLATE ID}}',tempParams)
-     .then(function(res){
+    .then(function(res){
         Swal.fire({
             position: 'center',
             icon: 'success',
             title: 'Mail Sent Successfully!',
             showConfirmButton: false,
             timer: 1500,
-          });
-     });
+        });
+    });
 }
 
 $(document).ready(function () {
@@ -37,7 +37,6 @@ $(document).ready(function () {
         backSpeed: 60,
         loop: true,
         fadeOut: true,
-        
     });
     var typed = new Typed(".typing-2",{
         strings: ["Your Skill","Your Hobby","Your Passion","Your Proficiency"],
@@ -47,13 +46,13 @@ $(document).ready(function () {
     });
 });
 
-     // Scroll to top button script
-      const btnScrollToTop = document.querySelector("#btnScrollToTop");
 
-      btnScrollToTop.addEventListener("click", function(){
-        window.scrollTo({
-        top: 0,
-        left: 0,
-        behavior: "smooth"
-      });
-    });
+// Scroll to top button script
+const btnScrollToTop = document.querySelector("#btnScrollToTop");
+btnScrollToTop.addEventListener("click", function(){
+    window.scrollTo({
+    top: 0,
+    left: 0,
+    behavior: "smooth"
+});
+});
